@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinarySearchTree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DynamicProgramming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JDBCFiles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCore03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCore04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCore2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCore5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCore6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/SpringCoreWithXMLandAnotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/WithoutSpring1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot/spring-boot-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TreesInDSA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tries" vcs="Git" />
+  </component>
+</project>
